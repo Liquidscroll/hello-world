@@ -1,2 +1,3 @@
 # hello-world
-Just another repository.
+
+Heyo, just some bloke who climbs rocks. Hope to learn coding skills!
